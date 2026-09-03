@@ -5,3 +5,5 @@ A simple Python operator that doubles the value.
 - Install the add‑on via Preferences -> Add‑on -> Install.
 - Select an object and launch the operator from the panel.
 # screenshot
+![before](https://github.com/Annahahahahah/blender_double_scale-operator/blob/main/before.png)
+![after](https://github.com/Annahahahahah/blender_double_scale-operator/blob/main/after.png)
